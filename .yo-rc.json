@@ -36,7 +36,9 @@
     "dtoSuffix": "DTO",
     "otherModules": [],
     "blueprints": [],
-    "prettierJava": true
+    "prettierJava": true,
+    "herokuAppName": "ecommerce",
+    "herokuDeployType": "git"
   },
   "git-provider": "GitHub",
   "git-company": "islandman",
